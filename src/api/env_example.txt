@@ -1,0 +1,16 @@
+# Environment Configuration Example
+# Copy this file to .env and update the values
+
+FLASK_ENV=development
+SECRET_KEY=your-secret-key-here
+DATABASE_PATH=competency_database.db
+
+# CORS Configuration (comma-separated origins)
+CORS_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+
+# Rate Limiting
+RATE_LIMIT=1000
+
+# Logging
+LOG_LEVEL=INFO
+LOG_FILE=api.log

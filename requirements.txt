@@ -1,0 +1,8 @@
+# No external dependencies required for SQLite
+# SQLite is built into Python
+
+# Optional: For better database visualization
+# sqlitebrowser  # Install separately: https://sqlitebrowser.org/
+
+# Optional: For web-based database management
+# sqlite-web  # Install with: pip install sqlite-web

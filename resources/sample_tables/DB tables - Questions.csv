@@ -1,0 +1,3 @@
+Id,QuestionType,QuestionDescription,Options,QuestionsAnswer,QuestionHint
+1001,MCQ,Choose the sentence that reads correctly left to right and uses the right unit.,"[The car's speed is 60 km/h,Car speed 60 km/h is,The car's speed is 60 kilograms]",The car's speed is 60 km/h,Pick correct unit and a well-formed sentence.
+1002,Integer,Write the exact sentence: “Speed = ___ km/h.” A bike travels 6 km in 30 minutes.,,12,Time = d ÷ v = 21 ÷ 7.
